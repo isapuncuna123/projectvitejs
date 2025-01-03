@@ -1,2 +1,2 @@
 # projectvitejs
-project  installation vite js dengan framework css tailwind
+Project React Js dengan framework Vite Js dan css Tailwind 
